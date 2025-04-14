@@ -35,6 +35,5 @@ class Player:
         if keys[pygame.K_LEFT] and self.x > 0:
             self.x -= self.speed
 
-    # def Shoot(self):
 
 
